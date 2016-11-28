@@ -1,0 +1,19 @@
+{
+  "name": "modules-es5",
+  "version": "1.0.0",
+  "description": "Reviwe of module system in ES5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "keywords": [
+    "modules",
+    "es5"
+  ],
+  "author": "Jorge Ramirez",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}

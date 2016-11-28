@@ -1,0 +1,20 @@
+{
+  "name": "amd-with-requirejs",
+  "version": "1.0.0",
+  "description": "Module Example using Asynchronous Module Definition and requireJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amd",
+    "requirejs",
+    "module",
+    "ES5"
+  ],
+  "author": "Jorge Ramirez",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
