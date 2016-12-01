@@ -1,0 +1,22 @@
+{
+  "name": "commonjs-systemjs",
+  "version": "1.0.0",
+  "description": "Test to see the creation of modules with commonJS format and the SystemJS loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "keywords": [
+    "commonjs",
+    "systemjs"
+  ],
+  "author": "Jorge Ramirez",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "dependencies": {
+    "systemjs": "^0.19.41"
+  }
+}
